@@ -110,5 +110,6 @@ ArchiTech is MIT licensed, as found in the [LICENSE](./LICENSE) file.
 ```
 
 ## Contact
+## 📬 Contact
 
-For any inquiries, please reach out to us at architech@example.com
+- **Twitter**: [@tanishq497718](https://x.com/tanishq497718)
