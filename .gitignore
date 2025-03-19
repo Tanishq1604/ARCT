@@ -1,2 +1,8 @@
 test_1.py
 .OPENAI_API_KEY
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
