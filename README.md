@@ -4,11 +4,11 @@
 ![Platform](https://img.shields.io/badge/platform-Web-brightgreen)
 ![Made with](https://img.shields.io/badge/made%20with-Python%20%7C%20Django%20%7C%20OpenAI-blue)
 
-## 🏆 Hackathon Winner: Reinventing Architectural Design
+## 🏆 Reinventing Architectural Design
 
 ArchiTech revolutionizes the way we approach architectural design by leveraging cutting-edge AI technology to generate professional floor plans instantly. Our solution bridges the gap between imagination and implementation, making architectural design accessible to everyone.
 
-![ArchiTech Demo](https://via.placeholder.com/800x400?text=ArchiTech+Demo)
+![ArchiTech](./gi/IMG-20250301-WA0063.jpg)
 
 ## ✨ Key Features
 
